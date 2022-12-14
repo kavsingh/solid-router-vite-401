@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "module": "esnext",
+    "noEmit": true,
+    "target": "esnext",
+  }
+}
